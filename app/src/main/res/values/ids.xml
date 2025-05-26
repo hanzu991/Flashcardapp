@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtScore" type="id" />
+    <item name="btnQuit" type="id" />
+    <item name="btnFalse" type="id" />
+    <item name="txtQuestion" type="id" />
+    <item name="txtFeedback" type="id" />
+    <item name="btnTrue" type="id" />
+    <item name="btnNext" type="id" />
+    <item name="editTextText2" type="id" />
+    <item name="btnStartQuiz" type="id" />
+</resources>
